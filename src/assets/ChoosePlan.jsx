@@ -18,7 +18,7 @@ import { useForm } from "./FormContext";
           }
         >
           <div className="emoji">
-            <img src="" alt="emoji" />
+            <img src={option.emoji} alt="emoji" />
           </div>
           <div>
             <p className="plan"> {option.plan} </p>

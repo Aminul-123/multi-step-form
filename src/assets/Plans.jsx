@@ -10,17 +10,17 @@ import ChoosePlan from "./ChoosePlan";
       {
         plan: "Archade",
         price: "$9/mo",
-        emoji: "",
+        emoji: "icon-archade.svg",
       },
       {
         plan: "Advanced",
         price: "$12/mo",
-        emoji: "",
+        emoji: "icon-advanced.svg",
       },
       {
         plan: "Pro",
         price: "$15/mo",
-        emoji: "",
+        emoji: "icon-pro.svg",
       },
     ];
     function handleYearly() {
