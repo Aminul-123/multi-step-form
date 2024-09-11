@@ -10,7 +10,7 @@ import ChoosePlan from "./ChoosePlan";
       {
         plan: "Archade",
         price: "$9/mo",
-        emoji: "icon-archade.svg",
+        emoji: "icon-arcade.svg",
       },
       {
         plan: "Advanced",
